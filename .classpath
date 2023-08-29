@@ -7,5 +7,6 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="C:/HYZH_FTP/software/开发组件/jar包/ssh连接/jsch-0.1.55.jar"/>
+	<classpathentry kind="lib" path="C:/HYZH_FTP/software/开发组件/jar包/ssh连接/snakeyaml-1.27.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
