@@ -12,11 +12,11 @@
 
 > 拖拽后请等待一段时间
 
-![image-20230821142519599](C:\Users\zhuhu\Desktop\file-uploader\README.assets\image-20230821142519599.png)
+![image-20230821142519599](README.assets/image-20230821142519599.png)
 
 部署成功会显示successfully字样，反之就是没有部署成功。
 
-![image-20230821142951650](C:\Users\zhuhu\Desktop\file-uploader\README.assets\image-20230821142951650.png)
+![image-20230821142951650](README.assets/image-20230821142951650.png)
 
 #### 特点
 
